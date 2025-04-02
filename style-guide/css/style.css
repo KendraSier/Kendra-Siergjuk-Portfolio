@@ -15,6 +15,16 @@ h1{
 	
 }
 
+.example {
+	width: 800px;
+	height: 200px;
+	display:flex;
+}
+
+.exampletext{
+	margin: 20px;
+}
+
 .colorPalette {
 	width: 1200px;
 	height: 200px;
@@ -35,29 +45,34 @@ h1{
 }
 
 .orange {
-	width: 200px;
+	width: 400px;
 	height: 150px;
 	background-color: #e1975b;
 	text-align: center;
 }
 
 .cyan {
-	width: 200px;
+	width: 600px;
 	height: 150px;
 	background-color: #467b7b;
 	text-align: center;
 }
 
 .blue {
-	width: 200px;
+	width: 800px;
 	height: 150px;
 	background-color: #2b516e;
 	text-align: center;
 }
 
 .darkblue {
-	width: 200px;
+	width: 1000px;
 	height: 150px;
 	background-color: #1e364d;
 	text-align: center;
+}
+
+.centerThis {
+	margin-left: auto;
+  	margin-right: auto
 }
