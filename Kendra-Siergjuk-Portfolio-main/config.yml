@@ -11,4 +11,4 @@ vgen:
 collections:
 design:
 output: true
-permalink: /:collection/:path/
+permalink: /:designs/:name/
