@@ -10,10 +10,10 @@ title: "design projects"
       <h2>{{ design.title }}</h2>
 	{% if design.tools %}
       <p><strong>Tools:</strong> {{ design.tools | join: ", " }}</p>
-	{% endiof %}
+	{% endif %}
 	{% if design.description %}
       <p>{{ design.description }}</p>
-	{% endfor %}
+	{% endif %}
       <a href="{{ site.baseurl }}/{{ design.url}}">View Project</a>
     </div>
   {% endfor %}
