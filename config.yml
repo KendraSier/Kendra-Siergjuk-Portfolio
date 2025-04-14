@@ -6,3 +6,9 @@ baseurl: "/Kendra-Siergjuk-Portfolio/"
 instagram:
 tiktok:
 vgen:
+
+
+collections:
+	design:
+	 output: true
+	 permalink: /:collection/:path/
