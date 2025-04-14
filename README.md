@@ -1,1 +1,4 @@
-# Kendra-Siergjuk-Portfolio
+---
+layout: default
+title: "Home"
+---
