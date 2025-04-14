@@ -6,4 +6,4 @@ baseurl: "/Kendra-Siergjuk-Portfolio/"
 collections:
 design:
 output: true
-permalink: /collection/:path/
+permalink: /:collection/:path/
