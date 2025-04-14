@@ -1,1 +1,0 @@
-# Kendra-Siergjuk-Portfolio
