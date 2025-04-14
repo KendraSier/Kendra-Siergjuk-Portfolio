@@ -9,6 +9,6 @@ vgen:
 
 
 collections:
-design:
-output: true
-permalink: /:designs/:name/
+	design:
+	 output: true
+	 permalink: /:collection/:path/
