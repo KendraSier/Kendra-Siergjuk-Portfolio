@@ -4,6 +4,6 @@ email: w0854092@myscc.ca
 baseurl: "/Kendra-Siergjuk-Portfolio/"
 
 collections:
-design:
-output: true
-permalink: /:collection/:path/
+  design:
+    output: true
+    permalink: /:collection/:path/
